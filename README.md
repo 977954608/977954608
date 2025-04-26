@@ -1,16 +1,28 @@
-## Hi there 👋
+# Creative Project Development Update
 
-<!--
-**977954608/977954608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently developing fun games and practical tools. Below are my completed projects, and I'll keep updating with more exciting content. Stay tuned!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Gaming Projects
+
+### 1. Flow Free - Number Link Challenge
+**Genre**: Number Link Puzzle Game  
+**Description**: Connect matching colored dots to fill the grid in this progressively challenging logic game.  
+**Play Now**: [flowfree-game.com](https://flowfree-game.com/)  
+
+### 2. Sprunklings - A Musical Playground
+**Genre**: A Musical Playground Game  
+**Description**: An imaginative and interactive online music game where players craft original tunes using charming characters and a wide array of sound elements.  
+**Try It**: [sprunkling.com](https://sprunkling.com/)  
+
+## 🛠️ Tool Projects  
+_(Hot in Development...)_
+- ✅ Ultimate Task Manager  
+- ⌛ Real-Time Markdown Collaborator  
+- ⚡ Smart Document Organizer  
+
+---
+
+✨ **Coming Soon**  
+Multiplayer cross-platform competitive games and AI art prompt generators launching within 2 months!
